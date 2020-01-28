@@ -8,3 +8,7 @@
 
 - [https://ledatascifi.github.io](https://ledatascifi.github.io/)
 - [https://www.wsj.com](https://wallstreetjournal.com) has world news
+
+# Jupyter Quickstart
+
+- Opening Participation Repo: jupyter notebook --notebook-dir </Users/williampemberton/Documents/GitHub/FIN377-participation-/First Python Code>
