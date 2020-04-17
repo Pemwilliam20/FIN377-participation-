@@ -1,4 +1,4 @@
-# FIN377-participation-
+# FIN377-participation-Pemwilliam20
 
 Hello! :) 
 
@@ -16,7 +16,7 @@ It contains four core components in the form of folders:
   - contains whatever I'd like to include! 
 
 The repo also has a navigating github directory as well: 
-- That provdes some detail regarding you can guess...navigating github! 
+- That provides some detail regarding you can guess...navigating github! 
 
 
 Hope you enjoy the visit :clap:
